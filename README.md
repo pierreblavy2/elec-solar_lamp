@@ -39,3 +39,6 @@
 <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/screen-circuit.jpg" height="254px"> 
 
 
+# License
+This project is licensed under the LGPL-v3 license. 
+https://www.gnu.org/licenses/lgpl-3.0.txt
