@@ -35,4 +35,7 @@
 
 (2) The switch is mounted in series with the LED
 
+# Circuit
+<img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/screen-circuit.jpg" height="254px"> 
+
 
