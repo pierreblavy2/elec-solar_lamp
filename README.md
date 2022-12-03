@@ -13,5 +13,22 @@
 |Name|Quantity|Description|
 |---|---|---|
 |QX5252|1|https://datasheetspdf.com/pdf/719492/Qxmd/QX5252/1|
+|AAA_holder|1|AAA battery holder|
+|Solar_panel|1|60x60 mm, 5V|
+|5mm LED|1|20mA LED|
+|330uH|1|Inductance DIP (1)|
+
+(1) Inductance values control the currant going trough the LED, according to this table
+|Inductance (uH)|Current (mA)|
+|---|---|
+|330|11|
+|270|14.5|
+|220|15.5|
+|150|25|
+|100|34.5|
+|82|38|
+|56|50|
+|47|75|
+|33|110|
 
 
