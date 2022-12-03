@@ -3,7 +3,7 @@
 * Automatically switch on/of the light when night/day comes
 * Solar
 * Can be switched off manualy, and used as a torch
-* Printable circuit board (KiCad)
+* Printable circuit board (KiCad), can easily be done on perfboard too.
 
 # Pictures
 <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-day.jpg" height="125px"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-night.jpg" height="125px"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/screen-pcb.jpg" height="125px">
