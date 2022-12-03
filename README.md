@@ -17,6 +17,8 @@
 |Solar_panel|1|60x60 mm, 5V|
 |5mm LED|1|20mA LED|
 |330uH|1|Inductance DIP (1)|
+|Switch|1|20mm, toggle, on/off (2)|
+|5mm LED support|1|RTM5021|
 
 (1) Inductance values control the currant going trough the LED, according to this table
 |Inductance (uH)|Current (mA)|
@@ -30,5 +32,7 @@
 |56|50|
 |47|75|
 |33|110|
+
+(2) The switch is mounted in series with the LED
 
 
