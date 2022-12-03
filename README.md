@@ -40,5 +40,5 @@
 
 
 # License
-This project is licensed under the LGPL-v3 license. 
-https://www.gnu.org/licenses/lgpl-3.0.txt
+This project is licensed under the [LGPL-v3 license](https://www.gnu.org/licenses/lgpl-3.0.txt). 
+
