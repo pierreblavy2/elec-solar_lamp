@@ -20,7 +20,9 @@
 |Switch|1|20mm, toggle, on/off (2)|
 |5mm LED support|1|RTM5021|
 
-(1) Inductance values control the currant going trough the LED, according to this table
+(1) Inductance values control the currant going trough the LED, according to this table. The default value is 330 uH. Lower inductince will increase light brightness and decrease battery duration.
+
+
 |Inductance (uH)|Current (mA)|
 |---|---|
 |330|11|
