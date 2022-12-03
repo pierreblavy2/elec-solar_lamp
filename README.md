@@ -6,6 +6,6 @@
 * Printable circuit board (KiCad)
 
 # Pictures
-<img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-day.jpg" width="25%"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-night.jpg" width="25%">
+<img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-day.jpg" height="125px"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-night.jpg" height="125px">
 
 
