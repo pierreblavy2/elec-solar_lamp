@@ -8,4 +8,10 @@
 # Pictures
 <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-day.jpg" height="125px"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/photo-night.jpg" height="125px"> <img src="https://raw.githubusercontent.com/pierreblavy2/elec-solar_lamp/main/images/screen-pcb.jpg" height="125px">
 
+# Components
+
+|Name|Quantity|Description|
+|---|---|---|
+|QX5252|1|https://datasheetspdf.com/pdf/719492/Qxmd/QX5252/1|
+
 
